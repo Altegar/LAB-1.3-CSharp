@@ -19,7 +19,7 @@ namespace LAB1
             double B;
 
             Console.WriteLine("=======================");
-            Console.WriteLine($"| {"x",8} | {"y",8} |");
+            Console.WriteLine($"| {'x',8} | {'y',8} |");
             Console.WriteLine("=======================");
 
             // обчислення
